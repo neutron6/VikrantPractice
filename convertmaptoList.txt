@@ -26,5 +26,6 @@ public class MapToList {
         List listtoMap = hm.values().stream().collect(Collectors.toCollection(ArrayList::new));
 
         System.out.println(listtoMap);
+        Systemoooooo;
     }
 }
